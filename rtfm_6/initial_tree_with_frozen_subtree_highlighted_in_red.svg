@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="721pt"
+   height="404pt"
+   viewBox="0.00 0.00 721.28 404.00"
+   version="1.1"
+   id="svg1962"
+   sodipodi:docname="initial_tree_with_frozen_subtree_highlighted_in_red.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata1968">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1966" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1482"
+     inkscape:window-height="927"
+     id="namedview1964"
+     showgrid="false"
+     inkscape:zoom="1.0537448"
+     inkscape:cx="562.49373"
+     inkscape:cy="327.5982"
+     inkscape:window-x="776"
+     inkscape:window-y="169"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="graph0" />
+  <g
+     id="graph0"
+     class="graph"
+     transform="scale(1 1) rotate(0) translate(4 400)">
+    <title
+       id="title1744">pt</title>
+    <!-- 2492452657424 -->
+    <g
+       id="node1"
+       class="node">
+      <title
+         id="title1746">2492452657424</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="164.76"
+         cy="-378"
+         rx="27"
+         ry="18"
+         id="ellipse1748" />
+      <text
+         text-anchor="middle"
+         x="164.76"
+         y="-374.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1750">seq</text>
+    </g>
+    <!-- 2492452657520 -->
+    <g
+       id="node2"
+       class="node">
+      <title
+         id="title1753">2492452657520</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="59.7599"
+         cy="-306"
+         rx="59.5207"
+         ry="18"
+         id="ellipse1755" />
+      <text
+         text-anchor="middle"
+         x="59.7599"
+         y="-302.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1757">Create Fine</text>
+    </g>
+    <!-- 2492452657424&#45;&#45;2492452657520 -->
+    <g
+       id="edge1"
+       class="edge">
+      <title
+         id="title1760">2492452657424--2492452657520</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M145.988,-364.485C128.41,-352.767 102.083,-335.215 83.1463,-322.591"
+         id="path1762" />
+    </g>
+    <!-- 2492452656080 -->
+    <g
+       id="node3"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1765">2492452656080</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="164.76"
+         cy="-306"
+         rx="27"
+         ry="18"
+         id="ellipse1767"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="164.76"
+         y="-302.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1769"
+         style="stroke:#ff0000">and</text>
+    </g>
+    <!-- 2492452657424&#45;&#45;2492452656080 -->
+    <g
+       id="edge17"
+       class="edge">
+      <title
+         id="title1772">2492452657424--2492452656080</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M164.76,-359.697C164.76,-348.846 164.76,-334.917 164.76,-324.104"
+         id="path1774" />
+    </g>
+    <!-- 2492452655408 -->
+    <g
+       id="node19"
+       class="node">
+      <title
+         id="title1777">2492452655408</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="330.76"
+         cy="-306"
+         rx="120.819"
+         ry="18"
+         id="ellipse1779" />
+      <text
+         text-anchor="middle"
+         x="330.76"
+         y="-302.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1781">Send for Credit Collection</text>
+    </g>
+    <!-- 2492452657424&#45;&#45;2492452655408 -->
+    <g
+       id="edge18"
+       class="edge">
+      <title
+         id="title1784">2492452657424--2492452655408</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M187.147,-367.559C214.139,-356.177 259.935,-336.866 292.554,-323.111"
+         id="path1786" />
+    </g>
+    <!-- 2492452655648 -->
+    <g
+       id="node4"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1789">2492452655648</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="106.76"
+         cy="-234"
+         rx="46.6143"
+         ry="18"
+         id="ellipse1791"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="106.76"
+         y="-230.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1793"
+         style="stroke:#ff0000">xor loop</text>
+    </g>
+    <!-- 2492452656080&#45;&#45;2492452655648 -->
+    <g
+       id="edge4"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1796">2492452656080--2492452655648</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M152.175,-289.811C142.846,-278.552 130.138,-263.215 120.537,-251.628"
+         id="path1798"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452655504 -->
+    <g
+       id="node7"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1801">2492452655504</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="222.76"
+         cy="-234"
+         rx="27"
+         ry="18"
+         id="ellipse1803"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="222.76"
+         y="-230.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1805"
+         style="stroke:#ff0000">xor</text>
+    </g>
+    <!-- 2492452656080&#45;&#45;2492452655504 -->
+    <g
+       id="edge16"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1808">2492452656080--2492452655504</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M177.345,-289.811C187.074,-278.07 200.477,-261.893 210.199,-250.159"
+         id="path1810"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452529632 -->
+    <g
+       id="node5"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1813">2492452529632</title>
+      <ellipse
+         fill="black"
+         stroke="black"
+         cx="39.7599"
+         cy="-162"
+         rx="2.7"
+         ry="2.7"
+         id="ellipse1815"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452655648&#45;&#45;2492452529632 -->
+    <g
+       id="edge2"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1818">2492452655648--2492452529632</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M91.2203,-216.765C73.9019,-198.671 47.4913,-171.078 41.1593,-164.462"
+         id="path1820"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452528384 -->
+    <g
+       id="node6"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1823">2492452528384</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="106.76"
+         cy="-162"
+         rx="45.7249"
+         ry="18"
+         id="ellipse1825"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="106.76"
+         y="-158.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1827"
+         style="stroke:#ff0000">Payment</text>
+    </g>
+    <!-- 2492452655648&#45;&#45;2492452528384 -->
+    <g
+       id="edge3"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1830">2492452655648--2492452528384</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M106.76,-215.697C106.76,-204.846 106.76,-190.917 106.76,-180.104"
+         id="path1832"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452528816 -->
+    <g
+       id="node8"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1835">2492452528816</title>
+      <ellipse
+         fill="black"
+         stroke="black"
+         cx="173.76"
+         cy="-162"
+         rx="2.7"
+         ry="2.7"
+         id="ellipse1837"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452655504&#45;&#45;2492452528816 -->
+    <g
+       id="edge5"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1840">2492452655504--2492452528816</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M211.885,-217.465C199.254,-199.42 179.538,-171.254 174.806,-164.494"
+         id="path1842"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452529440 -->
+    <g
+       id="node9"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1845">2492452529440</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="247.76"
+         cy="-162"
+         rx="52.6228"
+         ry="18"
+         id="ellipse1847"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="247.76"
+         y="-158.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1849"
+         style="stroke:#ff0000">Send Fine</text>
+    </g>
+    <!-- 2492452655504&#45;&#45;2492452529440 -->
+    <g
+       id="edge6"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1852">2492452655504--2492452529440</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M228.685,-216.411C232.612,-205.414 237.75,-191.027 241.704,-179.956"
+         id="path1854"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452529008 -->
+    <g
+       id="node10"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1857">2492452529008</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="345.76"
+         cy="-162"
+         rx="27"
+         ry="18"
+         id="ellipse1859"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="345.76"
+         y="-158.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1861"
+         style="stroke:#ff0000">seq</text>
+    </g>
+    <!-- 2492452655504&#45;&#45;2492452529008 -->
+    <g
+       id="edge15"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1864">2492452655504--2492452529008</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M242.796,-221.597C265.668,-208.581 302.864,-187.413 325.733,-174.398"
+         id="path1866"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452531936 -->
+    <g
+       id="node11"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1869">2492452531936</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="80.7599"
+         cy="-90"
+         rx="52.6228"
+         ry="18"
+         id="ellipse1871"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="80.7599"
+         y="-86.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1873"
+         style="stroke:#ff0000">Send Fine</text>
+    </g>
+    <!-- 2492452529008&#45;&#45;2492452531936 -->
+    <g
+       id="edge7"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1876">2492452529008--2492452531936</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M320.829,-154.415C274.961,-142.298 176.814,-116.373 121.265,-101.699"
+         id="path1878"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452531984 -->
+    <g
+       id="node12"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1881">2492452531984</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="259.76"
+         cy="-90"
+         rx="107.914"
+         ry="18"
+         id="ellipse1883"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="259.76"
+         y="-86.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1885"
+         style="stroke:#ff0000">Insert Fine Notification</text>
+    </g>
+    <!-- 2492452529008&#45;&#45;2492452531984 -->
+    <g
+       id="edge8"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1888">2492452529008--2492452531984</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M329.178,-147.503C315.316,-136.22 295.474,-120.07 280.551,-107.923"
+         id="path1890"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452531648 -->
+    <g
+       id="node13"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1893">2492452531648</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="431.76"
+         cy="-90"
+         rx="46.6143"
+         ry="18"
+         id="ellipse1895"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="431.76"
+         y="-86.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1897"
+         style="stroke:#ff0000">xor loop</text>
+    </g>
+    <!-- 2492452529008&#45;&#45;2492452531648 -->
+    <g
+       id="edge11"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1900">2492452529008--2492452531648</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M362.342,-147.503C376.692,-135.823 397.451,-118.926 412.527,-106.655"
+         id="path1902"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452531264 -->
+    <g
+       id="node16"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1905">2492452531264</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="542.76"
+         cy="-90"
+         rx="46.6143"
+         ry="18"
+         id="ellipse1907"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="542.76"
+         y="-86.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1909"
+         style="stroke:#ff0000">xor loop</text>
+    </g>
+    <!-- 2492452529008&#45;&#45;2492452531264 -->
+    <g
+       id="edge14"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1912">2492452529008--2492452531264</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M369.132,-152.695C403.989,-140.31 469.749,-116.943 509.575,-102.792"
+         id="path1914"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452530544 -->
+    <g
+       id="node14"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1917">2492452530544</title>
+      <ellipse
+         fill="black"
+         stroke="black"
+         cx="355.76"
+         cy="-18"
+         rx="2.7"
+         ry="2.7"
+         id="ellipse1919"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452531648&#45;&#45;2492452530544 -->
+    <g
+       id="edge9"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1922">2492452531648--2492452530544</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M414.514,-73.1159C394.894,-55.0446 364.625,-27.1656 357.365,-20.4782"
+         id="path1924"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452530784 -->
+    <g
+       id="node15"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1927">2492452530784</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="438.76"
+         cy="-18"
+         rx="61.6894"
+         ry="18"
+         id="ellipse1929"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="438.76"
+         y="-14.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1931"
+         style="stroke:#ff0000">Add penalty</text>
+    </g>
+    <!-- 2492452531648&#45;&#45;2492452530784 -->
+    <g
+       id="edge10"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1934">2492452531648--2492452530784</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M433.49,-71.6966C434.575,-60.8463 435.968,-46.9167 437.049,-36.1043"
+         id="path1936"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452530832 -->
+    <g
+       id="node17"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1939">2492452530832</title>
+      <ellipse
+         fill="black"
+         stroke="black"
+         cx="535.76"
+         cy="-18"
+         rx="2.7"
+         ry="2.7"
+         id="ellipse1941"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452531264&#45;&#45;2492452530832 -->
+    <g
+       id="edge12"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1944">2492452531264--2492452530832</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M541.03,-71.6966C539.248,-53.8826 536.637,-27.7686 535.938,-20.7764"
+         id="path1946"
+         style="stroke:#ff0000" />
+    </g>
+    <!-- 2492452530400 -->
+    <g
+       id="node18"
+       class="node"
+       style="stroke:#ff0000">
+      <title
+         id="title1949">2492452530400</title>
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="634.76"
+         cy="-18"
+         rx="78.5434"
+         ry="18"
+         id="ellipse1951"
+         style="stroke:#ff0000" />
+      <text
+         text-anchor="middle"
+         x="634.76"
+         y="-14.5"
+         font-family="Times New Roman,serif"
+         font-size="15.00"
+         id="text1953"
+         style="stroke:#ff0000">Appeal to Judge</text>
+    </g>
+    <!-- 2492452531264&#45;&#45;2492452530400 -->
+    <g
+       id="edge13"
+       class="edge"
+       style="stroke:#ff0000">
+      <title
+         id="title1956">2492452531264--2492452530400</title>
+      <path
+         fill="none"
+         stroke="black"
+         d="M563.178,-73.4647C578,-62.1868 598.019,-46.9552 613.117,-35.4672"
+         id="path1958"
+         style="stroke:#ff0000" />
+    </g>
+  </g>
+</svg>
